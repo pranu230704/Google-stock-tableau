@@ -2,7 +2,7 @@
 
 This Tableau story analyzes Google stock trends including trading volume, price changes, and quarterly performance.
 
-🔗 [View the interactive dashboard](https://public.tableau.com/views/google_stock_dashboard/GoogleStockStory)
+🔗[https://public.tableau.com/app/profile/pranavi.vutukuri/viz/google_stock_analysis/GoogleStockPrices?publish=yes]
 
 ## Features:
 - Volume trend
